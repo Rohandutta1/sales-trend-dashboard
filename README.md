@@ -1,18 +1,35 @@
-# Superstore-Sales-Dashboard---Powerbi
-- Power BI dashboards can be a helpfull tool to provide insights into sales performance and trends of an organization.
-- The dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category. 
-- It should also provide comparisons of performance to prior years, and allow for drill-down into individual market and products.
+# 📊 Sales Trend Dashboard - Power BI
 
-## Problem Statement:
-- Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
+An interactive and visually insightful **Sales Trend Dashboard** built using **Power BI**. This dashboard helps businesses monitor their sales performance over time, identify key trends, track KPIs, and make data-driven decisions.
 
-### Tools Used: 
-- Microsoft Power BI
+---
+
+## 📌 Features
+
+- 📈 **Sales Trends Over Time** (Monthly, Quarterly, Yearly)
+- 🌍 **Region-wise Sales Performance**
+- 🧍 **Top Performing Sales Representatives**
+- 💰 **Product-wise Sales Contribution**
+- 🏷️ **Category/Segment Filtering**
+- 🎯 **Sales Target vs Actual**
+- 📊 Interactive slicers and drill-through capabilities
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop**
+- **Excel / SQL / CSV** (as data source)
+- **DAX** for calculated metrics
+- **Power Query** for data transformation
+
+---
 
 ## Data:
 - Data Source : Superstore dataset from kaggle https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
 - The sales is between the period of 2011 to 2014
-   ![image](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
+
+---
 
 ## Dashboards:
 
